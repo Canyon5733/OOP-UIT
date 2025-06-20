@@ -1,2 +1,2 @@
-# OOP-UIT
-File Code Tham Khảo Lời Giải Cho Đề Thi OOP ở UIT 
+# Lập trình hướng đối tượng (OOP - UIT)
+File Source Code tham khảo cho các đề thi cuối kỳ của môn Lập trình hướng đối tượng ở UIT
