@@ -8,7 +8,7 @@
 
 ### 📅 Học kỳ 2, năm học 2022–2023  
 **Chủ đề:** Hệ sinh thái  
-**Mô tả:** Mô phỏng các loài sinh vật như **Muỗi**, **Bướm**, và **Ếch** trong môi trường hệ sinh thái.
+**Mô tả:** Mô phỏng vòng đời của các loài sinh vật như **Muỗi**, **Bướm**, và **Ếch** trong môi trường hệ sinh thái.
 
 ### 📅 Học kỳ 2, năm học 2023–2024  
 **Chủ đề:** Dịch tễ Virus  
